@@ -1,6 +1,6 @@
 <html>
     <head>
-        Find your patterns
+        <b>Find your patterns</b>
     </head>
     <body>
         <br>
